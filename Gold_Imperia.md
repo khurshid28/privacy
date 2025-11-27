@@ -135,6 +135,4 @@ Response Time: We typically respond within 3 business days
 This Privacy Policy is governed by and construed in accordance with the laws of the Republic of Uzbekistan. Any disputes arising from this policy shall be subject to the exclusive jurisdiction of the competent courts of Tashkent, Uzbekistan.
 
 
-Contact Us
-For questions or data removal requests:
-Email: alpdiametr@gmail.com
+
